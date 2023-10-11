@@ -1,6 +1,6 @@
 <?php
 
-namespace ProgrammerZamanNow\Belajar\PHP\MVC;
+namespace dfdiag\Belajar\PHP\MVC;
 
 use PHPUnit\Framework\TestCase;
 
@@ -9,7 +9,7 @@ class RegexTest extends TestCase
     public function testRegex()
     {
 
-        $path = "/products/12345/categories/abcde";
+        $path = "/products/12345/categories/";
 
         $pattern = "#^/products/([0-9a-zA-Z]*)/categories/([0-9a-zA-Z]*)$#";
 

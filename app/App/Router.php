@@ -1,6 +1,6 @@
 <?php
 
-namespace ProgrammerZamanNow\Belajar\PHP\MVC\App;
+namespace dfdiag\Belajar\PHP\MVC\App;
 
 class Router
 {

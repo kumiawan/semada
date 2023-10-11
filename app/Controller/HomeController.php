@@ -1,8 +1,8 @@
 <?php
 
-namespace ProgrammerZamanNow\Belajar\PHP\MVC\Controller;
+namespace dfdiag\Belajar\PHP\MVC\Controller;
 
-use ProgrammerZamanNow\Belajar\PHP\MVC\App\View;
+use dfdiag\Belajar\PHP\MVC\App\View;
 
 class HomeController
 {

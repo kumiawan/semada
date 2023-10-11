@@ -1,6 +1,6 @@
 <?php
 
-namespace ProgrammerZamanNow\Belajar\PHP\MVC\Controller;
+namespace dfdiag\Belajar\PHP\MVC\Controller;
 
 class ProductController
 {

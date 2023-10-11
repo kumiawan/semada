@@ -1,6 +1,6 @@
 <?php
 
-namespace ProgrammerZamanNow\Belajar\PHP\MVC;
+namespace dfdiag\Belajar\PHP\MVC;
 
 class Hello
 {
