@@ -1,10 +1,10 @@
 {
-    "name": "dfdiag/belajar-php-mvc",
-    "description": "Belajar PHP MVC",
+    "name": "dfdiag/php-login-semada",
+    "description": "PHP Login semada",
     "type": "project",
     "authors": [
         {
-            "name": "Kurniawan",
+            "name": "Dimas Fajar Kurniawan",
             "email": "fajard916@gmail.com"
         }
     ],
